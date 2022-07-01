@@ -1,2 +1,2 @@
-# Fun Stuff
+# fun-stuff
 Be careful
